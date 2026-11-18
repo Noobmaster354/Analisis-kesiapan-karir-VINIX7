@@ -145,7 +145,7 @@ Tingkat signifikansi α = 0,05. Analisis kampus hanya memakai kampus dengan n �
 
 Dashboard Looker Studio 1 halaman dengan 3 filter (rumpun prodi, semester, status kampus) dan 4 kartu jawaban: Minat Dream Job, Kesiapan Peserta, Kampus dan Referral, Frekuensi Belajar vs Bahasa Inggris.
 
-🔗 **Link dashboard:** [TAMBAHKAN LINK LOOKER STUDIO]
+🔗 **Link dashboard:** [--]
 
 ![Mockup dashboard](07_Dashboard/Mockup_Dashboard_1Halaman.png)
 
@@ -177,16 +177,4 @@ pip install pandas numpy scipy statsmodels matplotlib openpyxl
 
 ---
 
-## Tim
-
-Kelompok Divisi Data Analyst · MSIB Mandiri VINIX7 Batch 5
-
-| Nama | Peran |
-|---|---|
-| Satrio Faza Mubarok | Data Engineer (cleaning, validasi) dan analisis statistik |
-| [NAMA ANGGOTA] | [PERAN] |
-| [NAMA ANGGOTA] | [PERAN] |
-
----
-
-*Data survei bersifat anonim dan disediakan oleh mentor untuk keperluan proyek akhir.*
+*Data survei bersifat anonim dan disediakan oleh PT. untuk keperluan proyek akhir.*
